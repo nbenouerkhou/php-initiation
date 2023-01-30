@@ -1,0 +1,24 @@
+par rapport aux autres matières vues en cours
+=> la position du dossier dans l'ordinateur dans lequel vous allez travailler / écrire du code est important
+
+=> vous devez obligatoirement le créer dans le dossier c:\xampp\htdocs
+
+=> si vous créer ailleurs que dans ce dossier => le php ne va pas fonctionner !!!
+
+------------------------
+
+Présentation
+
+=> PHP = PHP Hypertext Preprocessor
+=> langage serveur => langage qui va etre executer dans la machine qui est appelée
+
+=> les sites internet modernes
+pour vous afficher les informations que vous voyez à l'écran vous aller avoir 2 ordinateurs qui vont interagir
+
+-----------------------
+pour pouvoir utiliser php, il faut obligatoirement avoir un serveur Apache
+
+Apache => service qui permet d'écouter les requetes http et qui passe la main à php php est un module de Apache
+
+---------------------------
+xampp-ontrol.exe => lancer le panneau de gestion de serveur local cliquer sur le bouon start du Apache
