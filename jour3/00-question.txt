@@ -1,0 +1,20 @@
+ordinateur A => travaille + repository local + git push
+github
+ordinateur B rien
+git clone
+
+----------
+Ordinateur A travail 20% + repository local
+git pull
+github
+ordinateur B travail 80% +repository local + push sur github
+
+git init
+git add --all
+git commit -m "description"
+
+--- créer un github => repository
+
+git branch -M main
+git remote origin url-debut-github
+git push -u origin main
